@@ -12,9 +12,9 @@ p {
 	background-image: url("../images/the-flatiron-building.png");
 }
 
-.header p {
+.header a {
 	font-size: 18px;
-
+	color: white;
 }
 
 h1 {
@@ -47,6 +47,10 @@ footer {
 	background-color: dimgray;
 	color: white;
 	text-align: left;
+}
+
+footer a {
+	color: white;
 }
 
 
